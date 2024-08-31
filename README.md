@@ -26,7 +26,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
     * Niraj K. Jha: M/W 2-3pm (EQuad B205)
     * Hongjie Wang:
     * Yihao Liang: Tu: 1-2pm, Th:11am-12pm (EQuad B321)
-    * Jiaxin Xiao:
+    * Jiaxin Xiao: Tu/Th: 2-3pm (EQuad B321)
 
 Zoom links and TA contact information can be found on [Canvas](https://canvas.princeton.edu/).
 
